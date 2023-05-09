@@ -1,0 +1,22 @@
+{
+    "drawers":
+    {
+        "1": {
+            "rings":
+            [
+                "blue rose",
+                "red rose"
+            ]
+        }
+    },
+    "shelves":
+    {
+        "1": {
+            "necklaces":
+            [
+                "gold chain and red rose",
+                "silver chain and green rose"
+            ]
+        }
+    }
+}
